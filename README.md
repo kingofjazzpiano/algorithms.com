@@ -1,9 +1,4 @@
 # Algorithms Documentation
-Here’s a concise version of your `README.md`:
-
----
-
-# Project Name
 
 This project is built with:
 
