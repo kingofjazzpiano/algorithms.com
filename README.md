@@ -1,9 +1,9 @@
-*algorithms.xyz documentation*
+**algorithms.xyz documentation**
 
 ## This project is built with:
 
 - **Backend:** Django, Django Rest Framework
-- **Database:** SQLite
+- **Database:** SQLite3
 - **Frontend:** Vue.js
 
 ## Tools
