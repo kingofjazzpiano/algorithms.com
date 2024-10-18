@@ -9,7 +9,7 @@
 ## Tools
 
 - Structurizr for building C4 diagrams
-- ChatGPT for code check
+- ChatGPT for code checking. Why not? 
   
 ## Code Guidelines
 
