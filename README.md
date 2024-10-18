@@ -1,4 +1,4 @@
-# Algorithms Documentation
+***Algorithms Documentation***
 
 ## This project is built with:
 
@@ -9,7 +9,7 @@
 ## Tools
 
 - Structurizr for building C4 diagrams
-- ChatGPT for code checking. Why not? 
+- ChatGPT for code improvements. Why not? 
   
 ## Code Guidelines
 
