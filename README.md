@@ -1,11 +1,16 @@
 # Algorithms Documentation
 
-This project is built with:
+## This project is built with:
 
 - **Backend:** Django, Django Rest Framework
 - **Database:** SQLite
 - **Frontend:** Vue.js
 
+## Tools
+
+- Structurizr for building C4 diagrams
+- ChatGPT for code check
+  
 ## Code Guidelines
 
 - **Typed Python Code:** Use type annotations in all functions and methods.
