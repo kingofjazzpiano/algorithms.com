@@ -1,4 +1,4 @@
-***Algorithms Documentation***
+*algorithms.xyz documentation*
 
 ## This project is built with:
 
