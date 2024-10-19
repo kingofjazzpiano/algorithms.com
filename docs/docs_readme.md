@@ -11,6 +11,7 @@
 - Backend: Django, Django Rest Framework
 - Database: SQLite3
 - Frontend: Vue.js
+- Web server: Nginx or Gunicorn
 
 Planned to be added:
 
