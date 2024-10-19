@@ -19,6 +19,14 @@ Algorithms
 	Depth-First Search
 	Breadth-First Search
 	Dijkstra's Algorithm
+Knuth's X algorithm on bit matrix
+Knuth's X algorithm with Dancing Links
+Inverse Fourier Transform
+Fast Fourier Transform
+Narayana's algorithm
+Knuth–Morris–Pratt algorithm 
+
+
 Data Structures
 	Tuple
 	Static Array
