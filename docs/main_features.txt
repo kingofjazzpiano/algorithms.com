@@ -13,7 +13,7 @@ Main Page Features (Basic functionality):
 	- Ability to resize tabs. The scale should not change.
 	- Ability to move tabs
 	- Buttons: start, previous debug point, step back, step forward, next debug point, finish
-
+	- Search with hint: "Enter algorithm or data structure or keyword" (faded)
 
 algorithms.com/docs features:
 	- Breadcrumbs: Implement breadcrumbs to help users understand their location within the site and documentation.
