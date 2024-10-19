@@ -1,5 +1,11 @@
 ## algorithms.xyz documentation
 
+## Code Guidelines
+
+- Typed Python Code Use type annotations in all functions and methods.
+- No Inheritance: Favor composition and aggregation over class inheritance for better flexibility and maintainability.
+
+
 ## This project is built with:
 
 - Backend: Django, Django Rest Framework
@@ -34,10 +40,6 @@ Planned to be added:
 - GitHub Actions CI/CD: Automate testing, building, and deployment processes.
 Benefit: Ensures that your code is consistently tested and deployed efficiently, reducing manual overhead.
 
-## Code Guidelines
-
-- Typed Python Code Use type annotations in all functions and methods.
-- No Inheritance: Favor composition and aggregation over class inheritance for better flexibility and maintainability.
 
 ## Summary
 
