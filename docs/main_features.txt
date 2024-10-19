@@ -9,6 +9,9 @@ Main Page Features (Basic functionality):
 	- algorithm review tab with asymptoric graphics
 	- Tutorial with backlight for new users
 	- Ability to change scale for RAM tab and Algorithms Visualization tab. Zoom in/out (+/-) buttons
+	- Ability to open and close tabs
+	- Ability to resize tabs. The scale should not change.
+
 
 algorithms.com/docs features:
 	UI:
