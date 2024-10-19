@@ -25,7 +25,9 @@ Inverse Fourier Transform
 Fast Fourier Transform
 Narayana's algorithm
 Knuth–Morris–Pratt algorithm 
-
+Boyer–Moore algorithm
+Aho–Corasick algorithm
+Rabin–Karp algorithm
 
 Data Structures
 	Tuple
@@ -39,6 +41,7 @@ Data Structures
   	Random List
   	Hash Table
   	Set
+Heap
   	Graph
   	Tree (which?)
   	Binary Search Tree
