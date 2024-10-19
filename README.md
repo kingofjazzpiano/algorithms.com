@@ -1,4 +1,4 @@
-## algorithms.xyz documentation
+## algorithms.com documentation
 
 ## Code Guidelines
 
