@@ -1,0 +1,8 @@
+Code editor features:
+	- Languages: Python, C
+	- Save/share code like godbolt.org
+  - Delete a file of code if it has not been viewed for more than a year.
+  - AI assistant
+  - Syntax highlights
+  - Changing font size. 12 by default
+  - Scroll bars at the bottom and side
