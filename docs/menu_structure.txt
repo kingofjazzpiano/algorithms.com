@@ -1,0 +1,20 @@
+Algorithms:
+	...
+Data Structures
+	Tuple
+	Static Array
+ 	Stack
+  Deque
+  Queue
+ 	Dynamic Array
+  Singly Linked List
+  Double Linked List
+  Random List
+  Dictionary
+  Set
+  Graph
+  Tree (which?)
+  Binary Search Tree
+  Red-Black Tree
+  AVL Tree
+  
