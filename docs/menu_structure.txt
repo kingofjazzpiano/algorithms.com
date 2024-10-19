@@ -1,20 +1,42 @@
-Algorithms:
-	...
+Algorithms
+	Sorts
+		Bogosort
+		Prmutation Sort (Bit trick set permutation)
+		Gnome Sort
+		Bubble Sort
+		Selection Sort
+		Insertion Sort
+		Pancake Sort (блинная)
+		Comb Sort (расчёской)
+		Shell Sort (Шелла)
+		Quick Sort
+		Merge Sort
+		Bucket Sort
+		Radix Sort
+		Counting Sort
+		*Sorts on GPU
+	Binary Search
+	Depth-First Search
+	Breadth-First Search
+	Dijkstra's Algorithm
 Data Structures
 	Tuple
 	Static Array
  	Stack
-  Deque
-  Queue
+	Deque
+  	Queue
  	Dynamic Array
-  Singly Linked List
-  Double Linked List
-  Random List
-  Dictionary
-  Set
-  Graph
-  Tree (which?)
-  Binary Search Tree
-  Red-Black Tree
-  AVL Tree
+	Singly Linked List
+	Double Linked List
+  	Random List
+  	Hash Table
+  	Set
+  	Graph
+  	Tree (which?)
+  	Binary Search Tree
+  	Red-Black Tree
+  	AVL Tree
+Hybrid Structures
+	List + Array
+	List + Dictionary
   
