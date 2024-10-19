@@ -12,7 +12,7 @@ Main Page Features (Basic functionality):
 	- Ability to open and close tabs
 	- Ability to resize tabs. The scale should not change.
 	- Ability to move tabs
-
+	- Buttons: start, previous debug point, step back, step forward, next debug point, finish
 
 
 algorithms.com/docs features:
