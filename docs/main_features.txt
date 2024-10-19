@@ -1,0 +1,15 @@
+Main Page Features (Basic functionality):
+	- Algorithm visualization tab
+	- Code editor tab
+	- AI code assistant
+	- Debugging like pythontutor.com, step backward feature
+	- RAM visualization tab
+	- menu with algorithms/data structures list
+	- discussion tab
+	- algorithm review tab with asymptoric graphics
+	- Tutorial with backlight for new users
+	- Ability to change scale for RAM tab and Algorithms Visualization tab. Zoom in/out (+/-) buttons
+
+algorithms.com/docs features:
+	UI:
+		- Breadcrumbs: Implement breadcrumbs to help users understand their location within the site and documentation.
