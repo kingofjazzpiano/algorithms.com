@@ -41,17 +41,17 @@ Benefit: Ensures that your code is consistently tested and deployed efficiently,
 
 ## Summary
 
-Frontend Enhancements: D3.js/Chart.js, Monaco Editor, Vuex, Vue Router
-API and Data Handling: Axios
-Authentication: JWT, Django Allauth
-Development Tools: Webpack/Vite, ESLint, Prettier
-Containerization: Docker, Docker Compose
-Testing: PyTest, Jest, Vue Test Utils
-Documentation: Swagger/ReDoc, MkDocs/Sphinx
-Performance: Redis
-Monitoring: Sentry, Prometheus, Grafana
-Collaboration: GitHub/GitLab
-CI/CD: GitHub Actions/GitLab CI
-UI Framework: Vuetify/BootstrapVue
-Analytics: Google Analytics/Matomo
-Asynchronous Tasks: Celery, Celery Beat
+- Frontend Enhancements: D3.js/Chart.js, Monaco Editor, Vuex, Vue Router
+- API and Data Handling: Axios
+- Authentication: JWT, Django Allauth
+- Development Tools: Webpack/Vite, ESLint, Prettier
+- Containerization: Docker, Docker Compose
+- Testing: PyTest, Jest, Vue Test Utils
+- Documentation: Swagger/ReDoc, MkDocs/Sphinx
+- Performance: Redis
+- Monitoring: Sentry, Prometheus, Grafana
+- Collaboration: GitHub/GitLab
+- CI/CD: GitHub Actions/GitLab CI
+- UI Framework: Vuetify/BootstrapVue
+- Analytics: Google Analytics/Matomo
+- Asynchronous Tasks: Celery, Celery Beat
