@@ -23,7 +23,7 @@ Planned to be added:
 - Docker
 
 
-##Tools
+## Tools
 - Structurizr for building interactive C4 diagrams
 - PyTest or Django’s Testing Framework
 - Jest and Vuereadability
