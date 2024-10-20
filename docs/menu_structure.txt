@@ -19,15 +19,19 @@ Algorithms
 	Depth-First Search
 	Breadth-First Search
 	Dijkstra's Algorithm
-Knuth's X algorithm on bit matrix
-Knuth's X algorithm with Dancing Links
-Inverse Fourier Transform
-Fast Fourier Transform
-Narayana's algorithm
-Knuth–Morris–Pratt algorithm 
-Boyer–Moore algorithm
-Aho–Corasick algorithm
-Rabin–Karp algorithm
+	Knuth's X algorithm on bit matrix
+	Knuth's X algorithm with Dancing Links
+	Inverse Fourier Transform
+	Fast Fourier Transform
+	Narayana's algorithm
+	Knuth–Morris–Pratt algorithm 
+	Boyer–Moore algorithm
+	Aho–Corasick algorithm
+	Rabin–Karp algorithm
+	Array Reverse 
+	Array Rotation
+	Singly Linked List Reverse
+	Matrix Rotation
 
 Data Structures
 	Tuple
@@ -39,9 +43,9 @@ Data Structures
 	Singly Linked List
 	Double Linked List
   	Random List
+	Heap
   	Hash Table
   	Set
-Heap
   	Graph
   	Tree (which?)
   	Binary Search Tree
