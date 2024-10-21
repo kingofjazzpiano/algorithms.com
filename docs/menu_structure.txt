@@ -28,8 +28,10 @@ Algorithms
 	Boyer–Moore algorithm
 	Aho–Corasick algorithm
 	Rabin–Karp algorithm
-	Array Reverse 
+	Array Reverse
 	Array Rotation
+Array Shuffle
+List Reverse
 	Singly Linked List Reverse
 	Matrix Rotation
 
