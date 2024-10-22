@@ -12,7 +12,15 @@ Main Page Features (Basic functionality):
 	- Ability to open and close tabs
 	- Ability to resize tabs. The scale should not change.
 	- Ability to move tabs
-	- Buttons: start, previous debug point, step back, step forward, next debug point, finish
+	- Buttons:
+[<<first] jump to start of code,
+[<o] previous breakpoint,
+[< step back] previous line that was executed,
+[>play speed: x2] executing code at a certain speed, that can be changed;
+[> step in] step into function,
+[> step out] step without entering a function,
+[o>] next breakpoint,
+[>>last] execution of all code.
 	- Full screen button 
 	- Search with hint: "Enter algorithm or data structure or keyword" (faded)
 
