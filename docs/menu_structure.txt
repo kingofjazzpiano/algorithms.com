@@ -30,10 +30,13 @@ Algorithms
 	Rabin–Karp algorithm
 	Array Reverse
 	Array Rotation
-Array Shuffle
-List Reverse
+	Array Shuffle
+	List Reverse
 	Singly Linked List Reverse
 	Matrix Rotation
+	Bit Rotation
+	Bit Matrix Rotation
+	BitbMatrix Transform
 
 Data Structures
 	Tuple
