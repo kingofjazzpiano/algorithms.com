@@ -36,7 +36,7 @@ Algorithms
 	Matrix Rotation
 	Bit Rotation
 	Bit Matrix Rotation
-	BitbMatrix Transform
+	Bit Matrix Transform
 
 Data Structures
 	Tuple

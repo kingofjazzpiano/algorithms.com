@@ -24,7 +24,7 @@ Planned to be added:
 
 
 ## Tools
-- Structurizr for building interactive C4 diagrams
+- Structurizr(Structurizr Lite?) for building interactive C4 diagrams
 - PyTest or Django’s Testing Framework
 - Jest and Vuereadability
 - ChatGPT for code improvements. Why not?
