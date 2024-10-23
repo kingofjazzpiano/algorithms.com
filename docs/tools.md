@@ -30,7 +30,7 @@ Planned to be added:
 - ChatGPT for code improvements. Why not?
 - ESLint and Prettier: Maintains a consistent codebase, reducing bugs and improving readability
 - Swagger: Automatically generate interactive API documentation from your DRF endpoints.
-- Sphinx: Create comprehensive project documentation
+- Sphinx + Read the Docs: Create comprehensive project documentation
 - Sentry: Monitor application errors and performance issues in real-time
 - Prometheus and Grafana: Monitor application metrics and visualize performance data.
 - GitHub Actions CI/CD: Automate testing, building, and deployment processes.
