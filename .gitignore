@@ -2,8 +2,9 @@ db.sqlite3
 db.sqlite3-journal
 static/
 venv/
-docs/build/
-
+documentation/sphinx_docs/
+structurizr-lite/
+structurizr-ui
 
 *.pyc
 __pycache__/
