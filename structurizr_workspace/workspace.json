@@ -6,7 +6,7 @@
   "documentation" : { },
   "id" : 1,
   "lastModifiedAgent" : "structurizr-ui",
-  "lastModifiedDate" : "2024-10-25T19:32:09Z",
+  "lastModifiedDate" : "2024-10-27T12:24:46Z",
   "model" : {
     "people" : [ {
       "description" : "The guy who helps the project develop",
@@ -21,7 +21,7 @@
         "destinationId" : "4",
         "id" : "6",
         "properties" : {
-          "structurizr.dsl.identifier" : "40601098-40e1-4d26-ba26-5d711d62fc0f"
+          "structurizr.dsl.identifier" : "15a430b8-177e-45c7-a44e-195cc534f580"
         },
         "sourceId" : "1",
         "tags" : "Relationship"
@@ -46,7 +46,7 @@
         "destinationId" : "4",
         "id" : "8",
         "properties" : {
-          "structurizr.dsl.identifier" : "5d1e1caf-43ed-4877-b8d3-e2322ea474cb"
+          "structurizr.dsl.identifier" : "4698fbe0-d4f9-407e-87a5-45c682f0579d"
         },
         "sourceId" : "2",
         "tags" : "Relationship"
@@ -72,7 +72,7 @@
           "destinationId" : "5",
           "id" : "10",
           "properties" : {
-            "structurizr.dsl.identifier" : "9bd0f46e-4e0f-4e9b-8eea-986658429d0f"
+            "structurizr.dsl.identifier" : "8001d6a2-971a-49e8-8e73-5de56a5c053f"
           },
           "sourceId" : "4",
           "tags" : "Relationship"
