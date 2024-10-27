@@ -1,0 +1,28 @@
+Main Page Features (Basic functionality):
+	- Algorithm Visualization Tab. Visualization must match the description on the Review Tab.
+	- Code Editor Tab
+	- AI code assistant
+	- Debugging like pythontutor.com, step backward feature
+	- RAM Visualization Tab
+	- menu with algorithms/data structures list
+	- discussion tab. 1 page for evey algorithm or user's code.
+	- Algorithm Review Tab with asymptoric graphics, animations (gif?), see also links list, other resources links, link to algorithm on algorithms.com. Ability to change font size (12 by default).
+	- Tutorial with backlight for new users
+	- Ability to change scale for RAM tab and Algorithms Visualization tab. Zoom in/out (+/-) buttons
+	- Ability to open and close tabs
+	- Ability to resize tabs. The scale should not change.
+	- Ability to move tabs
+	- Buttons:
+[<<first] jump to start of code,
+[<o] previous breakpoint,
+[< step back] previous line that was executed,
+[>play speed: x2] executing code at a certain speed, that can be changed;
+[> step in] step into function,
+[> step out] step without entering a function,
+[o>] next breakpoint,
+[>>last] execution of all code.
+	- Full screen button 
+	- Search with hint: "Enter algorithm or data structure or keyword" (faded)
+
+algorithms.com/docs features:
+	- Breadcrumbs: Implement breadcrumbs to help users understand their location within the site and documentation.
