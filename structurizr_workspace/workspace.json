@@ -5,8 +5,7 @@
   "description" : "Description",
   "documentation" : { },
   "id" : 1,
-  "lastModifiedAgent" : "structurizr-ui",
-  "lastModifiedDate" : "2024-10-27T12:24:46Z",
+  "lastModifiedDate" : "2024-10-27T12:54:02Z",
   "model" : {
     "people" : [ {
       "description" : "The guy who helps the project develop",
@@ -21,7 +20,7 @@
         "destinationId" : "4",
         "id" : "6",
         "properties" : {
-          "structurizr.dsl.identifier" : "15a430b8-177e-45c7-a44e-195cc534f580"
+          "structurizr.dsl.identifier" : "573a7545-1b7d-43a6-a820-27abffe67ec6"
         },
         "sourceId" : "1",
         "tags" : "Relationship"
@@ -46,7 +45,7 @@
         "destinationId" : "4",
         "id" : "8",
         "properties" : {
-          "structurizr.dsl.identifier" : "4698fbe0-d4f9-407e-87a5-45c682f0579d"
+          "structurizr.dsl.identifier" : "5fb7867d-f8f7-4047-b99e-f52622abd19e"
         },
         "sourceId" : "2",
         "tags" : "Relationship"
@@ -72,7 +71,7 @@
           "destinationId" : "5",
           "id" : "10",
           "properties" : {
-            "structurizr.dsl.identifier" : "8001d6a2-971a-49e8-8e73-5de56a5c053f"
+            "structurizr.dsl.identifier" : "04fdb113-9250-443b-8165-f8994f2a8799"
           },
           "sourceId" : "4",
           "tags" : "Relationship"
@@ -105,7 +104,6 @@
     "configuration" : {
       "branding" : { },
       "lastSavedView" : "SoftwareSystem",
-      "metadataSymbols" : "SquareBrackets",
       "styles" : {
         "elements" : [ {
           "shape" : "Person",
@@ -158,7 +156,7 @@
     } ],
     "systemContextViews" : [ {
       "automaticLayout" : {
-        "applied" : true,
+        "applied" : false,
         "edgeSeparation" : 0,
         "implementation" : "Graphviz",
         "nodeSeparation" : 300,
@@ -166,22 +164,18 @@
         "rankSeparation" : 300,
         "vertices" : false
       },
-      "dimensions" : {
-        "height" : 1500,
-        "width" : 1550
-      },
       "elements" : [ {
         "id" : "1",
-        "x" : 200,
-        "y" : 199
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "2",
-        "x" : 200,
-        "y" : 899
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "3",
-        "x" : 900,
-        "y" : 599
+        "x" : 0,
+        "y" : 0
       } ],
       "enterpriseBoundaryVisible" : true,
       "key" : "SoftwareSystem",
