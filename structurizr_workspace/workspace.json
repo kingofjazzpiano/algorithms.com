@@ -5,7 +5,8 @@
   "description" : "Description",
   "documentation" : { },
   "id" : 1,
-  "lastModifiedDate" : "2024-10-27T12:54:02Z",
+  "lastModifiedAgent" : "structurizr-ui",
+  "lastModifiedDate" : "2024-10-28T06:17:55Z",
   "model" : {
     "people" : [ {
       "description" : "The guy who helps the project develop",
@@ -20,7 +21,7 @@
         "destinationId" : "4",
         "id" : "6",
         "properties" : {
-          "structurizr.dsl.identifier" : "573a7545-1b7d-43a6-a820-27abffe67ec6"
+          "structurizr.dsl.identifier" : "204d73cd-1df1-40d2-a3a6-478b9b88e6da"
         },
         "sourceId" : "1",
         "tags" : "Relationship"
@@ -45,7 +46,7 @@
         "destinationId" : "4",
         "id" : "8",
         "properties" : {
-          "structurizr.dsl.identifier" : "5fb7867d-f8f7-4047-b99e-f52622abd19e"
+          "structurizr.dsl.identifier" : "16afee0d-ed00-41fe-9bb8-91d7e25a61b4"
         },
         "sourceId" : "2",
         "tags" : "Relationship"
@@ -71,7 +72,7 @@
           "destinationId" : "5",
           "id" : "10",
           "properties" : {
-            "structurizr.dsl.identifier" : "04fdb113-9250-443b-8165-f8994f2a8799"
+            "structurizr.dsl.identifier" : "fab8b888-5fc0-4de3-8ce5-dc5a11ef4ce4"
           },
           "sourceId" : "4",
           "tags" : "Relationship"
@@ -103,7 +104,8 @@
   "views" : {
     "configuration" : {
       "branding" : { },
-      "lastSavedView" : "SoftwareSystem",
+      "lastSavedView" : "Containers",
+      "metadataSymbols" : "SquareBrackets",
       "styles" : {
         "elements" : [ {
           "shape" : "Person",
@@ -117,7 +119,7 @@
     },
     "containerViews" : [ {
       "automaticLayout" : {
-        "applied" : false,
+        "applied" : true,
         "edgeSeparation" : 0,
         "implementation" : "Graphviz",
         "nodeSeparation" : 300,
@@ -125,22 +127,26 @@
         "rankSeparation" : 300,
         "vertices" : false
       },
+      "dimensions" : {
+        "height" : 1500,
+        "width" : 2320
+      },
       "elements" : [ {
         "id" : "1",
-        "x" : 0,
-        "y" : 0
+        "x" : 199,
+        "y" : 200
       }, {
         "id" : "2",
-        "x" : 0,
-        "y" : 0
+        "x" : 199,
+        "y" : 900
       }, {
         "id" : "4",
-        "x" : 0,
-        "y" : 0
+        "x" : 899,
+        "y" : 600
       }, {
         "id" : "5",
-        "x" : 0,
-        "y" : 0
+        "x" : 1649,
+        "y" : 600
       } ],
       "externalSoftwareSystemBoundariesVisible" : false,
       "key" : "Containers",

@@ -2,19 +2,18 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>System Architecture</title>
+    <title>Site Architecture</title>
     <style>
-        /* Optional: Set iframe dimensions */
         iframe {
             width: 100%;
-            height: 800px;
+            height: 100vh;
             border: none;
         }
     </style>
 </head>
 <body>
-    <h1>System Architecture</h1>
-    <!-- Embed Structurizr Lite using an iframe -->
-    <iframe src="http://localhost:8080" title="Structurizr Architecture"></iframe>
+    <h1>Site Architecture</h1>
+    <!-- Use the Django reverse proxy route -->
+    <iframe src="{% url 'structurizr_proxy' %}" title="Structurizr Architecture"></iframe>
 </body>
 </html>
