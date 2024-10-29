@@ -4,18 +4,7 @@
     <meta charset="UTF-8">
     <title>Site Architecture</title>
     <style>
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        .error-message {
-            background-color: #fee;
-            border: 1px solid #f99;
-            padding: 15px;
-            margin: 20px 0;
-            border-radius: 4px;
-        }
+        /* Optional: Set iframe dimensions */
         iframe {
             width: 100%;
             height: 800px;
@@ -24,36 +13,8 @@
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Site Architecture</h1>
-        
-        {% if not structurizr_available %}
-        <div class="error-message">
-            <h3>⚠️ Structurizr Service Not Available</h3>
-            <p>Please ensure Structurizr is running by executing:</p>
-            <pre>./run_structurizr.sh</pre>
-            <p>Then refresh this page.</p>
-        </div>
-        {% endif %}
-
-        <iframe src="{% url 'structurizr_proxy' %}" 
-                title="Structurizr Architecture"
-                id="structurizrFrame"
-                onload="checkFrameContent(this)">
-        </iframe>
-    </div>
-
-    <script>
-        function checkFrameContent(frame) {
-            try {
-                const content = frame.contentDocument || frame.contentWindow.document;
-                if (content.body.innerHTML.includes('error')) {
-                    frame.style.height = '100px';
-                }
-            } catch (e) {
-                console.log('Cannot access frame content due to same-origin policy');
-            }
-        }
-    </script>
+    <h1>Site Architecture</h1>
+    <!-- Embed Structurizr Lite using an iframe -->
+    <iframe src="http://localhost:8080" title="Site Architecture"></iframe>
 </body>
 </html>
