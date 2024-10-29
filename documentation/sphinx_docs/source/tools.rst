@@ -9,6 +9,7 @@ This project is built with:
 - **Database**: SQLite3
 - **Frontend**: Vue.js
 - **Web server**: Nginx or Gunicorn
+- **Python package manager**: poetry
 
 
 Planned to be added:
