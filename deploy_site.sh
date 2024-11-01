@@ -1,6 +1,6 @@
 #!/bin/bash
 
-alias rm='rm -I'
+alias rm='rm -i'
 source ~/.bashrc
 sudo apt update
 sudo apt install micro -y
