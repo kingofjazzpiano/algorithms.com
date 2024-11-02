@@ -18,4 +18,4 @@ RUN python3 -m venv venv && \
 
 EXPOSE 8000
 
-CMD ["./venv/bin/python", "manage.py", "runserver", "0.0.0.0:8000"]
+CMD ["./venv/bin/python3", "manage.py", "runserver", "0.0.0.0:8000"]
