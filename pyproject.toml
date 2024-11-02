@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "algorithms-com"
+name = "algorithms.com"
 version = "0.1.0"
 description = ""
 authors = ["kingofjazzpiano <mrkingofjazzpiano@gmail.com>"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "algorithms"}]
+
 
 [tool.poetry.dependencies]
 python = ">=3.12,<4.0"
