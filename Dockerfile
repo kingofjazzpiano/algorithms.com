@@ -7,11 +7,15 @@ RUN apt update && \
 	curl && \
 	rm -rf /var/lib/apt/lists/*
 
+WORKDIR /algorithms.com
+
 COPY . /algorithms.com/
 
-RUN cd /algorithms.com/ && \
-	python3 -m venv venv && \
-	. venv/bin/activate && \
-	pip install poetry && \
-	poetry install && \
-	python3 manage.py runserver 0.0.0.0:8000
+RUN python3 -m venv venv && \
+    ./venv/bin/pip install --upgrade pip && \
+    ./venv/bin/pip install poetry && \
+    ./venv/bin/poetry install
+
+EXPOSE 8000
+
+CMD ["./venv/bin/python", "manage.py", "runserver", "0.0.0.0:8000"]
