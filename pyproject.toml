@@ -5,6 +5,7 @@ description = ""
 authors = ["kingofjazzpiano <mrkingofjazzpiano@gmail.com>"]
 license = "MIT"
 readme = "README.md"
+package-mode = false
 
 
 [tool.poetry.dependencies]
