@@ -3,6 +3,7 @@ FROM python
 RUN apt update && \
 	apt install micro -y && \
     apt install -y nginx && \
+    apt install -y make && \
     rm -rf /var/lib/apt/lists/*
 
 WORKDIR /algorithms.com
@@ -15,5 +16,3 @@ RUN pip install --upgrade pip && \
     poetry install
 
 EXPOSE 8000
-
-CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
