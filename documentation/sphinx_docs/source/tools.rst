@@ -4,13 +4,14 @@ Tools
 
 This project is built with:
 
-- **Code Linting**: Compliance with `PEP8 <https://peps.python.org/pep-0008/>`_ and `PEP257 <https://peps.python.org/pep-0257/>_ is strictly required`
+- **Code Style**: Compliance with `PEP8 <https://peps.python.org/pep-0008/>`_ and `PEP257 <https://peps.python.org/pep-0257/>`_ is strictly required`
 - **Docs**: `Sphinx <https://www.sphinx-doc.org/en/master/>`_ with theme provided by `Read the Docs <https://readthedocs.org>`_
 - **Backend**: `Django <https://www.djangoproject.com/>`_, Django Rest Framework
 - **Database**: SQLite3
 - **Frontend**: Vue.js
 - **Web server**: Nginx or Gunicorn
 - **Python package manager**: poetry
+- **Virtualization**: `Docker <https://www.docker.com/>`_
 
 
 Planned to be added:
@@ -25,7 +26,6 @@ Planned to be added:
 - Redis: Implement caching mechanisms to speed up data retrieval and reduce databreal-time
 - Vuetify or BootstrapVue: Utilize pre-built UI components and styles for your Vue.js frontend. Accelerates frontend development with responsive and aesthetically pleasing components.
 - Nuxt.js (optional): Enhance Vue.js applications with server-side rendering for better SEO. Improves search engine visibility and initial load performance.
-- Docker
 
 
 Tools:
