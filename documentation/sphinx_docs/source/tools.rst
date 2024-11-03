@@ -4,6 +4,7 @@ Tools
 
 This project is built with:
 
+- **PEP**: Compliance with `PEP8 <https://peps.python.org/pep-0008/>`_ and `PEP257 <https://peps.python.org/pep-0257/>_ is strictly required`
 - **Docs**: `Sphinx <https://www.sphinx-doc.org/en/master/>`_ with theme provided by `Read the Docs <https://readthedocs.org>`_
 - **Backend**: `Django <https://www.djangoproject.com/>`_, Django Rest Framework
 - **Database**: SQLite3
