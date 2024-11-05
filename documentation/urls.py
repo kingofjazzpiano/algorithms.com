@@ -6,7 +6,7 @@ from . import views
 
 urlpatterns = [
     path("", RedirectView.as_view(
-            url="../static/documentation/html/index.html",
+            url="../documentation/sphinx/build/html/index.html",
             permanent=False)),
     path('architecture/', views.architecture_view, name='architecture'),
 ]

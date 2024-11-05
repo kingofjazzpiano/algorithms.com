@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Define paths
 SPHINX_DIR="documentation/sphinx_docs"
 BUILD_DIR="$SPHINX_DIR/build/html"
 STATIC_DIR="static/documentation"
@@ -11,17 +10,17 @@ if [ ! -d "$SPHINX_DIR" ]; then
     exit 1
 fi
 
-# Navigate to the Sphinx documentation directory
 cd "$SPHINX_DIR" || { echo "Failed to enter $SPHINX_DIR"; exit 1; }
 
-# Run make to build the HTML documentation
+# Run make to build the HTML documentation from $SPHINX_DIR/source
 echo "Building HTML documentation..."
 make html || { echo "Failed to build HTML documentation"; exit 1; }
 
 # Go back to the project root
 cd - > /dev/null
 
-# Clear the static documentation directory if it exists, or create it if it doesn't
+# Clear the static documentation directory if it exists
+# to prevent having outdated files, or create it if it doesn't
 if [ -d "$STATIC_DIR" ]; then
     echo "Clearing existing documentation in $STATIC_DIR..."
     rm -rf "$STATIC_DIR"/*
