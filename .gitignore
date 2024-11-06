@@ -2,12 +2,11 @@ db.sqlite3
 db.sqlite3-journal
 static/
 venv/
-documentation/sphinx_docs/build/
+documentation/sphinx/build/
+
 structurizr-lite/
 structurizr-ui
 
+*.log
 *.pyc
 __pycache__/
-
-
-staticfiles/
