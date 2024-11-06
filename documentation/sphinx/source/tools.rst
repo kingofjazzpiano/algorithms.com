@@ -6,10 +6,10 @@ This project is built with:
 
 - **Code Style**: Compliance with `PEP8 <https://peps.python.org/pep-0008/>`_ and `PEP257 <https://peps.python.org/pep-0257/>`_ is strictly required
 - **Docs**: `Sphinx <https://www.sphinx-doc.org/en/master/>`_ with theme provided by `Read the Docs <https://readthedocs.org>`_
-- **Backend**: `Django <https://www.djangoproject.com/>`_, Django Rest Framework
-- **Database**: SQLite3
-- **Frontend**: Vue.js
-- **Web server**: Nginx or Gunicorn
+- **Backend**: `Django <https://www.djangoproject.com/>`_, `Django Rest Framework <https://www.django-rest-framework.org/>`_
+- **Database**: `SQLite3 <https://www.sqlite.org/>`_
+- **Frontend**: `Vue.js <https://vuejs.org/>`_
+- **Web server**: `Nginx <https://nginx.org/en/>`_ or Gunicorn
 - **Python package manager**: `Poetry <https://python-poetry.org/>`_
 - **Virtualization**: `Docker <https://www.docker.com/>`_
 
