@@ -5,7 +5,8 @@
   "description" : "Description",
   "documentation" : { },
   "id" : 1,
-  "lastModifiedDate" : "2024-10-29T16:39:37Z",
+  "lastModifiedAgent" : "structurizr-ui",
+  "lastModifiedDate" : "2024-11-09T13:39:14Z",
   "model" : {
     "people" : [ {
       "description" : "The guy who helps the project develop",
@@ -19,9 +20,6 @@
         "description" : "Improves site algorithms.com",
         "destinationId" : "4",
         "id" : "6",
-        "properties" : {
-          "structurizr.dsl.identifier" : "8497ae5f-29da-4fb4-ba73-b787a5d60f67"
-        },
         "sourceId" : "1",
         "tags" : "Relationship"
       }, {
@@ -44,9 +42,6 @@
         "description" : "Grinding Computer Science",
         "destinationId" : "4",
         "id" : "8",
-        "properties" : {
-          "structurizr.dsl.identifier" : "165740d1-0e31-4369-8416-e30ad88039fd"
-        },
         "sourceId" : "2",
         "tags" : "Relationship"
       }, {
@@ -70,9 +65,6 @@
           "description" : "Reads from and writes to",
           "destinationId" : "5",
           "id" : "10",
-          "properties" : {
-            "structurizr.dsl.identifier" : "13a99645-591f-4521-88e7-2c683f278dce"
-          },
           "sourceId" : "4",
           "tags" : "Relationship"
         } ],
@@ -104,6 +96,7 @@
     "configuration" : {
       "branding" : { },
       "lastSavedView" : "Containers",
+      "metadataSymbols" : "SquareBrackets",
       "styles" : {
         "elements" : [ {
           "shape" : "Person",
@@ -117,7 +110,7 @@
     },
     "containerViews" : [ {
       "automaticLayout" : {
-        "applied" : false,
+        "applied" : true,
         "edgeSeparation" : 0,
         "implementation" : "Graphviz",
         "nodeSeparation" : 300,
@@ -125,22 +118,26 @@
         "rankSeparation" : 300,
         "vertices" : false
       },
+      "dimensions" : {
+        "height" : 1500,
+        "width" : 2320
+      },
       "elements" : [ {
         "id" : "1",
-        "x" : 0,
-        "y" : 0
+        "x" : 199,
+        "y" : 200
       }, {
         "id" : "2",
-        "x" : 0,
-        "y" : 0
+        "x" : 199,
+        "y" : 900
       }, {
         "id" : "4",
-        "x" : 0,
-        "y" : 0
+        "x" : 899,
+        "y" : 600
       }, {
         "id" : "5",
-        "x" : 0,
-        "y" : 0
+        "x" : 1649,
+        "y" : 600
       } ],
       "externalSoftwareSystemBoundariesVisible" : false,
       "key" : "Containers",
