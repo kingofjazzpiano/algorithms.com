@@ -4,9 +4,6 @@ static/
 venv/
 documentation/sphinx/build/
 
-structurizr-lite/
-structurizr-ui
-
 *.log
 *.pyc
 __pycache__/
