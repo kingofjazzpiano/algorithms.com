@@ -30,6 +30,7 @@ Planned to be added:
 
 Tools:
 
+- `Dependency Injector <https://python-dependency-injector.ets-labs.org/>`_
 - Structurizr(Structurizr Lite?) for building interactive C4 diagrams
 - PyTest or Django’s Testing Framework
 - Jest and Vuereadability
