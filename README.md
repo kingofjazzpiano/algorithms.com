@@ -4,5 +4,5 @@
 ## Installation
 ```bash
 ./install.sh
-source venv/bin/act./
+source venv/bin/activate
 ./build_docs.sh
