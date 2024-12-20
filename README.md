@@ -2,5 +2,5 @@
 
 
 ## Installation
-``bash
+```bash
 ./install.sh
