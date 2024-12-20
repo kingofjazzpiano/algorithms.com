@@ -1,1 +1,6 @@
-# Algorithms Com Project
+# algorithms.com Project
+
+
+## Installation
+``bash
+./install.sh
