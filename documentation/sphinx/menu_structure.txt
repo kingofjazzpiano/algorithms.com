@@ -25,7 +25,7 @@ Algorithms
 	Fast Fourier Transform
 	Narayana's algorithm
 	Knuth–Morris–Pratt algorithm 
-	Boyer–Moore algorithm
+	Boyer–Moore-Horspool algorithm
 	Aho–Corasick algorithm
 	Rabin–Karp algorithm
 	Array Reverse
